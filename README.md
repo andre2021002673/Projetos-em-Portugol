@@ -4,7 +4,7 @@ Progetos em Portugol, 2º Semestre 2021
 ## Projetos das listas de exercício
 
  -  4 notas e julgamento.por
- -  "Aula 2 - condi\303\247\303\243o se numero \303\251 maior que 20.por"
+ -  Aula 2 - condição se numero é maior que 20.por"
  -  Jardim da rainha.por
  -  Calculadora.por
  -  Campo do ronaldinho.por
